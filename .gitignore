@@ -1,1 +1,7 @@
-
+node_modueles/
+dist/
+build/
+.env
+.DS_Store
+.vscode/
+*.log
